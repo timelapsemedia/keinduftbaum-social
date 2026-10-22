@@ -8,7 +8,8 @@ noch nicht live sind. Idempotent wie der lokale Nachholer: EXAKTER Caption-Abgle
 Hoechstens 1 Post pro Lauf (keine Flut nach langer PC-Pause), nur Termine der letzten FENSTER_H Stunden.
 
 queue.json: {"marke": "...", "stand": "...", "posts": [{"id", "due" (ISO mit Offset), "caption",
-             "image_urls": [...], "video_url": "..." | null, "cover_url": optional, "hold": optional}]}
+             "image_urls": [...], "video_url": "..." | null, "cover_url"/"thumb_offset" (ms): optional,
+             "hold": optional}]}
 Umgebung: IG_TOKEN, optional IG_USER_ID (Std. me), QUEUE (Pfad), STATE (Pfad, jsonl), optional FENSTER_H (Std. 48), TROCKEN=1.
 Exit 1 bei Fehler (Actions zeigt rot, Nachhol-Waechter sieht es)."""
 import datetime as dt
@@ -62,6 +63,8 @@ def warte(cid, versuche):
 def posten(p):
     if p.get("video_url"):
         extra = {"cover_url": p["cover_url"]} if p.get("cover_url") else {}
+        if p.get("thumb_offset") is not None:
+            extra["thumb_offset"] = str(int(p["thumb_offset"]))
         c = api("POST", f"{USER}/media", media_type="REELS", video_url=p["video_url"], caption=p["caption"],
                 share_to_feed="true", **extra)
         warte(c["id"], 120)
