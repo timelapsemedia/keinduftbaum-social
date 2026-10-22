@@ -1,6 +1,6 @@
 {
  "marke": "keinduftbaum",
- "stand": "2026-10-22T10:08+02:00",
+ "stand": "2026-10-22T11:10+02:00",
  "posts": [
   {
    "id": "P23",
@@ -86,6 +86,17 @@
    "image_urls": [],
    "video_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_38hkCZF59GLldwwRS6in05Mr1ZD/3e0e21ac-dfd9-4345-ab3e-4b4fb20b01f4.mp4",
    "cover_url": null,
+   "hold": false
+  },
+  {
+   "id": "P27",
+   "due": "2026-10-27T19:00+01:00",
+   "caption": "Riecht dein Auto nur nach Alltag? 💗\n\nDolly Kiss duftet sanft, auf natürlicher Basis.\nDose öffnen, hinstellen, fertig. Ruhig und gleichmäßig über Wochen.\n\nPinky Musk oder Platinum Shower, was passt zu deinem Auto?\n\n🤖 Bildmaterial KI-generiert\n\n#keinduftbaum #autoduft #dollykiss #carinterior",
+   "image_urls": [
+    "https://raw.githubusercontent.com/timelapsemedia/keinduftbaum-social/main/posts/P27_cover.jpg"
+   ],
+   "video_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_38hkCZF59GLldwwRS6in05Mr1ZD/fb43604a-f038-4f8a-b7fc-c00df024c00e.mp4",
+   "cover_url": "https://raw.githubusercontent.com/timelapsemedia/keinduftbaum-social/main/posts/P27_cover.jpg",
    "hold": false
   }
  ]
