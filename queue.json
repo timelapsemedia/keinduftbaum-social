@@ -1,6 +1,6 @@
 {
  "marke": "keinduftbaum",
- "stand": "2026-10-22T11:10+02:00",
+ "stand": "2026-10-23T12:00+02:00",
  "posts": [
   {
    "id": "P23",
@@ -97,6 +97,67 @@
    ],
    "video_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_38hkCZF59GLldwwRS6in05Mr1ZD/fb43604a-f038-4f8a-b7fc-c00df024c00e.mp4",
    "cover_url": "https://raw.githubusercontent.com/timelapsemedia/keinduftbaum-social/main/posts/P27_cover.jpg",
+   "hold": false
+  },
+  {
+   "id": "P28",
+   "due": "2026-11-03T19:00+01:00",
+   "caption": "Regen draußen, Feierabend drinnen. 🌆\n\nCue Glyph von Carall in Pinky Musk. Ein Lüftungsstecker aus Japan, dezent und erwachsen.\nDie Stärke regelst du einfach über den Luftstrom.\n\nLüftung eher auf Stufe eins oder voll aufgedreht?\n\n🤖 Bildmaterial KI-generiert\n\n#keinduftbaum #autoduft #carall #feierabend",
+   "image_urls": [
+    "https://raw.githubusercontent.com/timelapsemedia/keinduftbaum-social/main/posts/P28_cover.jpg"
+   ],
+   "video_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_38hkCZF59GLldwwRS6in05Mr1ZD/70251e24-dd58-4f08-83e1-fe9fd381102a.mp4",
+   "cover_url": "https://raw.githubusercontent.com/timelapsemedia/keinduftbaum-social/main/posts/P28_cover.jpg",
+   "hold": false
+  },
+  {
+   "id": "P29",
+   "due": "2026-11-04T20:00+01:00",
+   "caption": "Lüftung, Konsole oder Spiegel? 🧭\n\nWohin welcher Duft gehört, auf vier Folien.\nSpeichern für später.\n\nWo hängt oder steht dein Duft gerade?\n\n🤖 Bildmaterial KI-generiert\n\n#keinduftbaum #autoduft #carall #carinterior",
+   "image_urls": [
+    "https://raw.githubusercontent.com/timelapsemedia/keinduftbaum-social/main/posts/P29_01.jpg",
+    "https://raw.githubusercontent.com/timelapsemedia/keinduftbaum-social/main/posts/P29_02.jpg",
+    "https://raw.githubusercontent.com/timelapsemedia/keinduftbaum-social/main/posts/P29_03.jpg",
+    "https://raw.githubusercontent.com/timelapsemedia/keinduftbaum-social/main/posts/P29_04.jpg"
+   ],
+   "video_url": null,
+   "cover_url": null,
+   "hold": false
+  },
+  {
+   "id": "P30",
+   "due": "2026-11-07T10:30+01:00",
+   "caption": "Samstag, kein Wecker, nur Laub. 🍁\n\nCue Air von Carall, zwei Lüftungsstecker mit Dufttablette.\nDer Duft verteilt sich fein über den Luftstrom, in White Musk oder Pure Savon.\n\nWas läuft bei dir am Samstagmorgen im Radio?\n\n🤖 Bildmaterial KI-generiert\n\n#keinduftbaum #autoduft #carall #wochenende",
+   "image_urls": [
+    "https://raw.githubusercontent.com/timelapsemedia/keinduftbaum-social/main/posts/P30_cover.jpg"
+   ],
+   "video_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_38hkCZF59GLldwwRS6in05Mr1ZD/f0fe4b9f-40fa-4401-b1fd-31b8e53acd0a.mp4",
+   "cover_url": "https://raw.githubusercontent.com/timelapsemedia/keinduftbaum-social/main/posts/P30_cover.jpg",
+   "hold": false
+  },
+  {
+   "id": "P31",
+   "due": "2026-11-10T19:00+01:00",
+   "caption": "Grau draußen, Kirschblüte am Spiegel. 🌸\n\nSeasonable von Carall im 3er Pack: Oshima Sakura, Setouchi Lemon und Oita Kabosu.\nAufhängen, fertig. Speichern für später.\n\nKirschblüte oder lieber Zitrus im Auto?\n\n🤖 Bildmaterial KI-generiert\n\n#keinduftbaum #autoduft #carall #sakura",
+   "image_urls": [
+    "https://raw.githubusercontent.com/timelapsemedia/keinduftbaum-social/main/posts/P31_cover.jpg"
+   ],
+   "video_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_38hkCZF59GLldwwRS6in05Mr1ZD/30a1ec21-148d-4fbd-aa39-d5273e1f6872.mp4",
+   "cover_url": "https://raw.githubusercontent.com/timelapsemedia/keinduftbaum-social/main/posts/P31_cover.jpg",
+   "hold": false
+  },
+  {
+   "id": "P32",
+   "due": "2026-11-11T20:00+01:00",
+   "caption": "Dezent, parfümig oder auf Knopfdruck? 👃\n\nKlar über die Lüftung, parfümig am Spiegel oder frisch aufgesprüht.\nSpeichern für später.\n\nWelche Richtung passt eher zu dir?\n\n🤖 Bildmaterial KI-generiert\n\n#keinduftbaum #autoduft #carall #autoparfum",
+   "image_urls": [
+    "https://raw.githubusercontent.com/timelapsemedia/keinduftbaum-social/main/posts/P32_01.jpg",
+    "https://raw.githubusercontent.com/timelapsemedia/keinduftbaum-social/main/posts/P32_02.jpg",
+    "https://raw.githubusercontent.com/timelapsemedia/keinduftbaum-social/main/posts/P32_03.jpg",
+    "https://raw.githubusercontent.com/timelapsemedia/keinduftbaum-social/main/posts/P32_04.jpg"
+   ],
+   "video_url": null,
+   "cover_url": null,
    "hold": false
   }
  ]
