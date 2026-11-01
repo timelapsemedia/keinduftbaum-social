@@ -1,21 +1,7 @@
 {
  "marke": "keinduftbaum",
- "stand": "2026-10-30T07:55+01:00",
+ "stand": "2026-11-01T09:44+01:00",
  "posts": [
-  {
-   "id": "P25",
-   "due": "2026-10-28T20:00+01:00",
-   "caption": "Wo soll dein Duft eigentlich sitzen? 🔍\n\nDrei Plätze im Auto, drei Arten, wie der Duft zu dir kommt.\nSpeichern für später.\n\nLüftung, Getränkehalter oder unter dem Sitz?\n🛒 Shop: Link im Profil\n\n🤖 Bildmaterial KI-generiert\n\n#keinduftbaum #autoduft #carinterior #carall",
-   "image_urls": [
-    "https://raw.githubusercontent.com/timelapsemedia/keinduftbaum-social/main/posts/P25_01.jpg",
-    "https://raw.githubusercontent.com/timelapsemedia/keinduftbaum-social/main/posts/P25_02.jpg",
-    "https://raw.githubusercontent.com/timelapsemedia/keinduftbaum-social/main/posts/P25_03.jpg",
-    "https://raw.githubusercontent.com/timelapsemedia/keinduftbaum-social/main/posts/P25_04.jpg"
-   ],
-   "video_url": null,
-   "cover_url": null,
-   "hold": false
-  },
   {
    "id": "P26",
    "due": "2026-10-31T21:00+01:00",
@@ -43,17 +29,6 @@
    "image_urls": [],
    "video_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_38hkCZF59GLldwwRS6in05Mr1ZD/3e0e21ac-dfd9-4345-ab3e-4b4fb20b01f4.mp4",
    "cover_url": null,
-   "hold": false
-  },
-  {
-   "id": "P27",
-   "due": "2026-10-27T19:00+01:00",
-   "caption": "Riecht dein Auto nur nach Alltag? 💗\n\nDolly Kiss duftet sanft, auf natürlicher Basis.\nDose öffnen, hinstellen, fertig. Ruhig und gleichmäßig über Wochen.\n\nPinky Musk oder Platinum Shower, was passt zu deinem Auto?\n\n🤖 Bildmaterial KI-generiert\n\n#keinduftbaum #autoduft #dollykiss #carinterior",
-   "image_urls": [
-    "https://raw.githubusercontent.com/timelapsemedia/keinduftbaum-social/main/posts/P27_cover.jpg"
-   ],
-   "video_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_38hkCZF59GLldwwRS6in05Mr1ZD/fb43604a-f038-4f8a-b7fc-c00df024c00e.mp4",
-   "cover_url": "https://raw.githubusercontent.com/timelapsemedia/keinduftbaum-social/main/posts/P27_cover.jpg",
    "hold": false
   },
   {
@@ -114,15 +89,6 @@
     "https://raw.githubusercontent.com/timelapsemedia/keinduftbaum-social/main/posts/P32_04.jpg"
    ],
    "video_url": null,
-   "cover_url": null,
-   "hold": false
-  },
-  {
-   "id": "M7",
-   "due": "2026-10-28T12:30+01:00",
-   "caption": "Lüftung an, und der Duft fährt mit. 🌬️\n\nDer Amberju Clip sitzt direkt am Lüftungsgitter und verteilt den Duft über den Luftstrom. Zwei Clips im Set, die Tabletten tauschst du einfach aus.\n\nAmber Bloom, Silky Savon oder White Musk?\n🛒 Shop: Link im Profil\n\n#keinduftbaum #autoduft #lüftungsclip #carinterior",
-   "image_urls": [],
-   "video_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_38hkCZF59GLldwwRS6in05Mr1ZD/7ff2132f-2d6b-4534-af17-e98955672d2b.mp4",
    "cover_url": null,
    "hold": false
   },
