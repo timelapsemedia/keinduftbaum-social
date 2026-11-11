@@ -1,6 +1,6 @@
 {
  "marke": "keinduftbaum",
- "stand": "2026-11-10T14:43+01:00",
+ "stand": "2026-11-11T12:00+01:00",
  "posts": [
   {
    "id": "P31",
@@ -123,6 +123,50 @@
    "caption": "60 ml Duft im Glasflakon statt Duftbaum. 💎\n\nRegalia Enrich G steht im Getränkehalter oder auf dem Armaturenbrett. Flakon öffnen, mehr ist nicht zu tun. Elegant, unaufdringlich und ohne synthetische Schwere.\n\nPlatinum Shower, Floral Charm oder Glamorous Veil, welche passt zu dir?\n🛒 Shop: Link im Profil\n\n#keinduftbaum #autoduft #carall #regalia",
    "image_urls": [],
    "video_url": "https://timelapsemedia.github.io/reel-host/v/keinduftbaum_regalia-g.mp4",
+   "cover_url": null,
+   "hold": false
+  },
+  {
+   "id": "P33",
+   "due": "2026-11-14T10:30+01:00",
+   "caption": "Ein kühler Herbstmorgen und dieser feine Duft. 🌫️\n\nDas Woman 4er Pack bringt Parfümnoten an den Spiegel. \n Allien oder Si alla Vita duften dezent über Wochen.\n\nParkst du meistens lieber vorwärts oder rückwärts ein?\n🛒 Shop: Link im Profil\n\n#keinduftbaum #autoduft #carinterior #parfümanhänger",
+   "image_urls": [
+    "https://raw.githubusercontent.com/timelapsemedia/keinduftbaum-social/main/posts/P33_01.jpg"
+   ],
+   "video_url": null,
+   "cover_url": null,
+   "hold": false
+  },
+  {
+   "id": "P34",
+   "due": "2026-11-17T19:00+01:00",
+   "caption": "Wenn die Stadtlichter im Lack reflektieren. ✨\n\nEin dezenter Duft auf pflanzlicher Basis begleitet die Fahrt.\nDie Organic Dose fügt sich schlicht in die Konsole ein.\n\nWas war dein erstes eigenes Auto?\n🛒 Shop: Link im Profil\n\n#keinduftbaum #autoduft #carinterior #organic",
+   "image_urls": [
+    "https://raw.githubusercontent.com/timelapsemedia/keinduftbaum-social/main/posts/P34_01.jpg"
+   ],
+   "video_url": null,
+   "cover_url": null,
+   "hold": false
+  },
+  {
+   "id": "P35",
+   "due": "2026-11-21T10:30+01:00",
+   "caption": "Ein grauer Novembermorgen und diese klare Frische. 🍂\n\nDie Aromust Can begleitet dich dezent durch den Herbst.\nSie sorgt über Wochen für eine gepflegte Atmosphäre.\n\nPutzt du dein Auto lieber samstags oder sonntags?\n🛒 Shop: Link im Profil\n\n#keinduftbaum #autoduft #carinterior #detailing",
+   "image_urls": [
+    "https://raw.githubusercontent.com/timelapsemedia/keinduftbaum-social/main/posts/P35_01.jpg"
+   ],
+   "video_url": null,
+   "cover_url": null,
+   "hold": false
+  },
+  {
+   "id": "P36",
+   "due": "2026-11-24T19:00+01:00",
+   "caption": "Nebel zieht auf und du steigst in dein sauberes Auto. ☕\n\nDie Aromust Can fügt sich schlicht in die Konsole.\nDuftnoten wie White Savon begleiten dich über Wochen.\n\nBist du eher Typ Langstrecke oder Kurzstrecke?\n🛒 Shop: Link im Profil\n\n#keinduftbaum #autoduft #carinterior #detailing",
+   "image_urls": [
+    "https://raw.githubusercontent.com/timelapsemedia/keinduftbaum-social/main/posts/P36_01.jpg"
+   ],
+   "video_url": null,
    "cover_url": null,
    "hold": false
   }
